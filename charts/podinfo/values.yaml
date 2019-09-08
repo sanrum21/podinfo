@@ -10,7 +10,7 @@ faults:
   error: false
 
 image:
-  repository: stefanprodan/podinfo
+  repository: sanrum21/podinfo
   tag: 3.0.0
   pullPolicy: IfNotPresent
 
